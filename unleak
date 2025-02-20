@@ -782,7 +782,7 @@ function library:Introduction()
     xsx.Font = Enum.Font.Code
     xsx.Text = "powered by Killnet"
     xsx.TextColor3 = Color3.fromRGB(124, 124, 124)
-    xsx.TextSize = 20.000
+    xsx.TextSize = 15.000
     xsx.TextTransparency = 1
     
     text.Name = "text"
